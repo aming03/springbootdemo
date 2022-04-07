@@ -2,8 +2,3 @@
     pageEncoding="UTF-8"%>
 
 <jsp:include page="layout/default.jsp"/>
-
-<h1>厲害了</h1>
-
-
-<p>文章編輯</p>
